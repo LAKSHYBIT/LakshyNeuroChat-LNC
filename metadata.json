@@ -1,0 +1,9 @@
+{
+  "name": "Nano-Banana Ultra ChatGPT",
+  "description": "Advanced multi-modal AI assistant featuring Gemini 3 Pro, Veo Video Generation, Live Audio API, and Search/Maps Grounding.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
